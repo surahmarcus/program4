@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HungryAnt()
+comment0.text=\n\ Creates\ a\ new\ HungryAnt\ object.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Creates\ a\ new\ act()\ method\ which\n\ removes\ a\ bee\ from\ the\ world\ if\ one\n\ intersects\ with\ it.\n
+numComments=2

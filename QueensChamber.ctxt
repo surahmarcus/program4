@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QueensChamber()
+comment0.text=\n\ Creates\ a\ new\ QueensChamber\ object.\n
+comment1.params=
+comment1.target=boolean\ beesInChamber()
+comment1.text=\n\ Creates\ a\ new\ beesInChamber()\ method\ which\n\ checks\ to\ see\ if\ any\ Bees\ are\ currently\n\ in\ the\ queens\ chamber.\n\ @return\ the\ size\ of\ the\ insecting\ objects\ list.\n
+numComments=2

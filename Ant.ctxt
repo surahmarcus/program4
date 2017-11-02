@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cost1\ health1
+comment0.target=Ant(int,\ int)
+comment0.text=\n\ Creates\ a\ new\ Ant\ object.\n\ @param\ cost1\ stores\ the\ cost\ of\ ant.\n\ @param\ health1\ stores\ the\ health\ of\ ant.\n
+comment1.params=
+comment1.target=int\ getHealth()
+comment1.text=\n\ Stores\ ant's\ health\ value.\n\ @return\ the\ health\ of\ the\ ant.\n
+comment2.params=n
+comment2.target=void\ injure(int)
+comment2.text=\n\ Creates\ a\ new\ injure()\ method\ that\n\ decreases\ the\ ants\ health\ and\ removes\ it\n\ if\ the\ health\ reaches\ 0.\n\ @param\ n\ the\ number\ of\ times\ the\ \n\ ants\ health\ should\ decrease.\n
+comment3.params=
+comment3.target=int\ getFoodCost()
+comment3.text=\n\ Stores\ ant's\ cost\ value.\n\ @return\ the\ cost\ of\ the\ ant.\n
+numComments=4

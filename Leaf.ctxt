@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Leaf()
+comment0.text=\n\ Creates\ a\ new\ Leaf\ object.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Creates\ a\ new\ act()\ method\ which\ injures\ bees\n\ if\ a\ leaf\ touches\ the\ bee,\ or\ removes\ the\ leaf\n\ from\ the\ colony\ if\ the\ leaf\ reaches\ the\ end\ of\n\ the\ colony.\n
+numComments=2

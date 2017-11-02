@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bee()
+comment0.text=\n\ Creates\ a\ new\ Bee\ object.\n
+comment1.params=
+comment1.target=void\ sting()
+comment1.text=\n\ Creates\ a\ new\ sting()\ method\ which\ \n\ decreases\ the\ ants\ health\ every\ 40\ turns\n\ by\ 1.\n
+comment2.params=
+comment2.target=int\ getHealth()
+comment2.text=\n\ Creates\ a\ new\ getHealth()\ method\ that\n\ returns\ the\ health\ of\ the\ bee.\n\ @return\ the\ health\ of\ the\ bee.\n
+comment3.params=n
+comment3.target=void\ injure(int)
+comment3.text=\n\ Creates\ a\ new\ injure()\ method\ that\n\ decreases\ the\ bees\ health\ and\ removes\ it\n\ if\ the\ health\ reaches\ 0.\n\ @param\ n\ the\ number\ of\ times\ the\ \n\ bees\ health\ should\ decrease.\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Creates\ a\ new\ act()\ method\ to\ be\ called\n\ on\ every\ time\ the\ program\ acts.\ This\ act()\n\ method\ stings\ ants\ if\ it\ intersects\ with\ one.\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FireAnt()
+comment0.text=\n\ Creates\ a\ new\ FireAnt\ object.\n
+comment1.params=n
+comment1.target=void\ injure(int)
+numComments=2

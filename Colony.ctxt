@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Colony()
+comment0.text=\n\ Creates\ a\ new\ Colony\ object.\n
+comment1.params=x\ y
+comment1.target=void\ onTouchDown(int,\ int)
+comment1.text=\n\ Add\ an\ ant\ to\ the\ screen\ when\ a\ specific\ location\ is\ clicked.\n\ This\ method\ is\ automatically\ called\ while\ the\ simulation\ is\n\ running,\ whenever\ the\ user\ clicks\ on\ (or\ taps\ on)\ a\ location\n\ in\ the\ colony\ (one\ that\ isn't\ covered\ by\ an\ actor\ already).\n\ \n\ @param\ x\ The\ x-coordinate\ of\ the\ click\n\ @param\ y\ The\ y-coordinate\ of\ the\ click\n
+comment2.params=
+comment2.target=int\ getFood()
+comment2.text=\n\ Returns\ the\ ants\ stomach\ contents\n\ @return\ The\ stomach\ contents\ of\ the\ ants\n
+comment3.params=a
+comment3.target=void\ addFood(int)
+comment3.text=\n\ This\ method\ increases\ the\ amount\ of\ food\n\ the\ user\ has\ to\ use\ by\ int\ a.\n\ @param\ a\ adds\ int\ food\n
+comment4.params=b
+comment4.target=void\ consumeFood(int)
+comment4.text=\n\ This\ method\ decreases\ the\ amount\ of\ food\n\ the\ user\ has\ to\ use\ by\ int\ b.\n\ @param\ b\ subtracts\ int\ food\n
+comment5.params=
+comment5.target=void\ act()
+numComments=6
